@@ -1,0 +1,10 @@
+.main {
+  background: white;
+  border-radius: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  height: auto;
+  /* height: 600px; */
+  margin: 10px;
+  width: 60%;
+}

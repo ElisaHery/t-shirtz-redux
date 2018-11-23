@@ -1,0 +1,43 @@
+.sidebar {
+  background: #1f3c60;
+  border-radius: 10px;
+  height: 600px;
+  margin: 10px;
+  width: 30%;
+  /* flex : */
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.text_sidebar {
+  color: white;
+  text-align: center;
+}
+hr {
+  width: 80%;
+}
+
+.color_wrap {
+  display: flex;
+  justify-content: center;
+}
+.input_color {
+  cursor: pointer;
+  height: 30px;
+  margin: 3px;
+  width: 30px;
+  box-sizing: border-box;
+}
+.blue {
+  background: #223f7f;
+}
+.grey {
+  background: grey;
+}
+.red {
+  background: #84354a;
+}
+.white {
+  background: white;
+}

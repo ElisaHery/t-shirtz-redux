@@ -1,0 +1,27 @@
+.product_name {
+  color: black;
+  margin: 5px;
+}
+.product_price {
+  color: black;
+  margin: 3px;
+}
+.produit {
+  background: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 320px;
+  margin: auto;
+  width: 250px;
+}
+
+.image {
+  border-radius: 3px;
+  height: 250px;
+  margin: auto;
+  transition: 0.3s;
+}
+.image:hover {
+  height: 290px;
+}
